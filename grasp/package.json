@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "run": "tsc && node dist/$npm_config_file"
+  },
+  "dependencies": {
+    "typescript": "^5.5.3"
+  }
+}
